@@ -1,0 +1,957 @@
+"quarter","exp_total","exp_primary","exp_personnel","exp_socialsec","exp_transfers"
+2000 Q1,"0","0",0,0,0
+2000 Q2,"0","0",0,0,0
+2000 Q3,"0","0",0,0,0
+2000 Q4,"0","0",0,0,0
+2001 Q1,"0","0",0,0,0
+2001 Q2,"0","0",0,0,0
+2001 Q3,"0","0",0,0,0
+2001 Q4,"0","0",0,0,0
+2002 Q1,"0","0",0,0,0
+2002 Q2,"0","0",0,0,0
+2002 Q3,"0","0",0,0,0
+2002 Q4,"0","0",0,0,0
+2003 Q1,"0","0",0,0,0
+2003 Q2,"0","0",0,0,0
+2003 Q3,"0","0",0,0,0
+2003 Q4,"0","0",0,0,0
+2004 Q1,"0","0",0,0,0
+2004 Q2,"0","0",0,0,0
+2004 Q3,"0","0",0,0,0
+2004 Q4,"0","0",0,0,0
+2005 Q1,"0","0",0,0,0
+2005 Q2,"0","0",0,0,0
+2005 Q3,"0","0",0,0,0
+2005 Q4,"0","0",0,0,0
+2006 Q1,"39374912","28092924",8939794,1214282,13139245
+2006 Q2,"42223653","30630025",9585095,1170394,11774235
+2006 Q3,"47824760","33073376",9676136,1174469,12888870
+2006 Q4,"48702708","40366999",9611182,1515951,12048856
+2007 Q1,"49441897","33475107",11192386,1405582,14857044
+2007 Q2,"51237546","40310870",10781312,1319885,17918602
+2007 Q3,"53280119","37401965",11063989,1367212,14916092
+2007 Q4,"50108121","44126850",10531152,1711856,15600120
+2008 Q1,"51561873","37811036",12512628,1585378,17514374
+2008 Q2,"49026659","42037687",11993390,1467448,17711132
+2008 Q3,"64889166","44291174",12641136,1481588,17281670
+2008 Q4,"61552864","52229360",11709168,1873126,17853261
+2009 Q1,"66424698","48334482",14496612,1769422,24179364
+2009 Q2,"58406078","49254141",13972308,1677018,21917831
+2009 Q3,"72338252","54067927",14127952,1692970,24107863
+2009 Q4,"71050157","63361741",13350015,2068873,21770747
+2010 Q1,"68372793","53373523",16224015,2754187,27719235
+2010 Q2,"68121497","55561915",15512171,2607081,24101406
+2010 Q3,"72332872","60608391",15687185,2656608,25874653
+2010 Q4,"85531562","76516133",14891967,3044639,24161787
+2011 Q1,"72853240","58884610",18773596,3308817,29554312
+2011 Q2,"70362118","61895896",18063502,3039181,25406513
+2011 Q3,"77653213","65324097",18634798,3093956,25061275
+2011 Q4,"93738221","86270631",17442246,3407810,30476751
+2012 Q1,"83849846","66526062",21648081,3738079,32293565
+2012 Q2,"85031129","76095403",22176332,3583659,34361504
+2012 Q3,"89160330","75886748",22078905,3578553,30530276
+2012 Q4,"103845381","94962426",20559392,3827917,32291674
+2013 Q1,"95037413","79889241",25093263,4234374,37936129
+2013 Q2,"92832784","84680484",23862600,3838697,37395875
+2013 Q3,"106670583","86132954",24388711,3963663,35580507
+2013 Q4,"113683780","107535831",22890793,4269727,37830082
+2014 Q1,"105816742","91845221",29384004,5036538,41641093
+2014 Q2,"108039977","95548454",27655087,4549773,41321084
+2014 Q3,"111578191","99772140",27332061,4529697,41997309
+2014 Q4,"123317427","111673205",25998936,4812933,37322696
+2015 Q1,"118613923","100522545",32341643,5454576,41746873
+2015 Q2,"118047479","106423081",30614773,4889191,45986641
+2015 Q3,"130989256","115939807",32083963,5173706,51049986
+2015 Q4,"138654435","130415421",30011033,5527308,43887528
+2016 Q1,"131667352","115201196",38672200,6555241,54233615
+2016 Q2,"142184599","132260943",38232547,5961312,57050526
+2016 Q3,"142668773","127380785",36735304,6072719,56181065
+2016 Q4,"167550707","158981970",35224072,6109919,57381892
+2017 Q1,"159656847","140832426",41903757,6991674,71426412
+2017 Q2,"164778321","156612418",39920737,6373951,72348100
+2017 Q3,"163785518","144198550",40886795,6836194,60279731
+2017 Q4,"189501631","179367120",39427756,7065119,66907885
+2018 Q1,"187859121","165581822",48227370,8326072,74338216
+2018 Q2,"211832090","200301995",50341466,8062648,90351107
+2018 Q3,"203852655","177241258",52080626,8622014,77893203
+2018 Q4,"226905654","213363233",50239043,9358568,80516648
+2019 Q1,"254443108","221079477",63774218,11444229,98310310
+2019 Q2,"227123811","209743568",62061557,10230754,100958923
+2019 Q3,"258059156","227315489",63042874,10520033,106812112
+2019 Q4,"259863358","241411259",60998313,10842131,94189246
+2020 Q1,"285329547","247081502",75813704,12770605,113736487
+2020 Q2,"279532100","246523134",70130888,11490632,125392610
+2020 Q3,"305151116","268584273",74503136,12048547,134129063
+2020 Q4,"332223706","306085251",67320947,11975774,124731316
+2021 Q1,"321335669","272407880",87754046,14771462,133781734
+2021 Q2,"342024651","300082320",82726246,13377471,145419484
+2021 Q3,"388289397","336886718",89801678,14552013,158526242
+2021 Q4,"547992678","509413207",85976267,14667485,188936291
+2022 Q1,"571715201","486876336",130419696,21275797,223999158
+2022 Q2,"600135591","550320784",128040768,20260452,266154159
+2022 Q3,"848909110","776452259",182658931,27750106,338527728
+2022 Q4,"920660492","816867815",174158289,27556123,297471133
+2023 Q1,"1044752686.21","944095110.15",274556554.92,42835066.41,464758544.79
+2023 Q2,"1318824039.81","1144238073.83",282878446.28,43035898.63,581633515.72
+2023 Q3,"1589008435.89","1393388113.4",403454622.21,51143767.51,577613126.81
+2023 Q4,"2632870349.56","2429119680.73",363640225.49,48720598.6,749635435.08
+2024 Q1,"2150680200.14","1900203789.13",664319768.64,81509755.67,837167675.07
+2024 Q2,"2427868414.94","2103921285.44",621099903.91,77281911.33,991830638.43
+2024 Q3,"2580088198.65","2241825876.26",721316304.62,87775264.98,911331665.28
+2024 Q4,"3618371981.54","3260602503.92",659227409.8,85589693.97,1123268590.87
+2025 Q1,"2089858877.38","1787152057.7",638420825.44,75703688.56,809501941.42
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,"Central Government Budget Expenditures (A+B)-Level","Observation: Cumulative",NA,NA,NA
+NA,"A Excluding Interest-Level","Observation: Cumulative",NA,NA,NA
+NA,"1. Compensation of Employees-Level","Observation: Cumulative",NA,NA,NA
+NA,"Civil Servants-Level","Observation: Cumulative",NA,NA,NA
+NA,"Workers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Contructual Personnels-Level","Observation: Cumulative",NA,NA,NA
+NA,"Temporary and Other Personnels-Level","Observation: Cumulative",NA,NA,NA
+NA,"2. Social Security Contributions-Level","Observation: Cumulative",NA,NA,NA
+NA,"Civil Servants-Level","Observation: Cumulative",NA,NA,NA
+NA,"Workers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Contructual Personnels-Level","Observation: Cumulative",NA,NA,NA
+NA,"Temporary and Other Personnels-Level","Observation: Cumulative",NA,NA,NA
+NA,"Premium Deifferences-Level","Observation: Cumulative",NA,NA,NA
+NA,"3. Good and Services Purchases-Level","Observation: Cumulative",NA,NA,NA
+NA,"a) Defense and Security-Level","Observation: Cumulative",NA,NA,NA
+NA,"Ministry of Defense-Level","Observation: Cumulative",NA,NA,NA
+NA,"General ComOf Gendarme-Level","Observation: Cumulative",NA,NA,NA
+NA,"General Directorate of Security-Level","Observation: Cumulative",NA,NA,NA
+NA,"b) Health Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Health Expenditures of Public Personnel-Level","Observation: Cumulative",NA,NA,NA
+NA,"General Cure and Pharmaceutial Products-Level","Observation: Cumulative",NA,NA,NA
+NA,"Cure and Pharmaceutial Products Expof Persons Having Green Card-Level","Observation: Cumulative",NA,NA,NA
+NA,"Medicine Expenditures of Person Having Green Card-Level","Observation: Cumulative",NA,NA,NA
+NA,"c) General Debt Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"d) Other Good and Servises-Level","Observation: Cumulative",NA,NA,NA
+NA,"4. Current Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"a) Assignment Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Duty Losses of Public Enterprises-Level","Observation: Cumulative",NA,NA,NA
+NA,"Duty Losses Social Security Agencies-Level","Observation: Cumulative",NA,NA,NA
+NA,"Halk Bank Loan Interest Support for Tradesmen and Craftsmen-Level","Observation: Cumulative",NA,NA,NA
+NA,"Ziraat Bank Loan Interest Support for Agricultural Producers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Certificate Of Insolvency Expenses-Level","Observation: Cumulative",NA,NA,NA
+NA,"Agricultural Credit Cooperatives-Level","Observation: Cumulative",NA,NA,NA
+NA,"Ziraat Bank-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other Duty Losses-Level","Observation: Cumulative",NA,NA,NA
+NA,"b) Treasury Aid-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Treasury Aid to Social Security Agencies-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Retirement Fund-Level","Observation: Cumulative",NA,NA,NA
+NA,"_General Directorate of Self Employed-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Social Security Agencies-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Unemployment Insurance Fund-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Point Support to Community Chest-Level","Observation: Cumulative",NA,NA,NA
+NA,"Health, Retirement & Social Aid Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Government Social Security Contribution-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Invoiced Payments (Duty Losses)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Additional Provision-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Additional Payments for Retirements (Duty Losses)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Point Deduction of Employers' Insurance Premium-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Social Security Deficit Finance (Treasury Aid)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Health Premium of Persons Have not Social Security-Level","Observation: Cumulative",NA,NA,NA
+NA,"Treasury Aid to Local Governments-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Municipalities (Equalisation Allowance)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Provincial Offices (Wages of Village Services Personnel and Others)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Street Lighting Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other Treasury Aids-Level","Observation: Cumulative",NA,NA,NA
+NA,"_DFIF (Exportation Support)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Terror Indemnity-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"c) Transfers to Non_Financial Establishment-Level","Observation: Cumulative",NA,NA,NA
+NA,"Political Parties-Level","Observation: Cumulative",NA,NA,NA
+NA,"Culture Capital-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"d) Transfers to Households-Level","Observation: Cumulative",NA,NA,NA
+NA,"Scholarship & Pocket Money-Level","Observation: Cumulative",NA,NA,NA
+NA,"Transfers for Education-Level","Observation: Cumulative",NA,NA,NA
+NA,"Transfers for Health-Level","Observation: Cumulative",NA,NA,NA
+NA,"Transfers for Food-Level","Observation: Cumulative",NA,NA,NA
+NA,"Transfers for Accomodation-Level","Observation: Cumulative",NA,NA,NA
+NA,"e) Agricultural Subsidy-Level","Observation: Cumulative",NA,NA,NA
+NA,"Direct Revenue Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Produce Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Supporting Tea-Level","Observation: Cumulative",NA,NA,NA
+NA,"Field Based Agricultural Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Deficiency Payments Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Stockbreeding Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Project of Agriculture Reform-Level","Observation: Cumulative",NA,NA,NA
+NA,"Agricultural Support for Rural Development-Level","Observation: Cumulative",NA,NA,NA
+NA,"Agricultural Insurance Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Compensative Expenditures within the Scope of Agriculture-Level","Observation: Cumulative",NA,NA,NA
+NA,"Drought Support-Level","Observation: Cumulative",NA,NA,NA
+NA,"Others-Level","Observation: Cumulative",NA,NA,NA
+NA,"f) Other Transfers to Households-Level","Observation: Cumulative",NA,NA,NA
+NA,"Encouragement Paying of Minister of Economy-Level","Observation: Cumulative",NA,NA,NA
+NA,"Turism Energy Incentive-Level","Observation: Cumulative",NA,NA,NA
+NA,"Small and Medium Industry Development Organization-Level","Observation: Cumulative",NA,NA,NA
+NA,"Aid to Farmer Aggrieved From Natural Disaster-Level","Observation: Cumulative",NA,NA,NA
+NA,"Government Contribution to Individual Retirement-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"g) Social Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Retirement TaRefund-Level","Observation: Cumulative",NA,NA,NA
+NA,"SHCEK-Level","Observation: Cumulative",NA,NA,NA
+NA,"Monthly Payments (Law Num of 2022)-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"h) Foreign Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Turkish Republic Of Northern Cyprus-Level","Observation: Cumulative",NA,NA,NA
+NA,"Contribution Payments to International Institutions-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"j) Shares from Revenues-Level","Observation: Cumulative",NA,NA,NA
+NA,"Shares of Local Government-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Special Provincial Administrations-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Metropolitan Municipalities-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Borough Municipalities-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other Municipalities-Level","Observation: Cumulative",NA,NA,NA
+NA,"Shares of Funds-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Defense Industry, Support Fund-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Social Aid&Solidarity Incentive Fund-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other Shares-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other Shares Allocated From Income-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Contribution to Education-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Mass Hausing Fund-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"5. Capital Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Product Purchase-Level","Observation: Cumulative",NA,NA,NA
+NA,"Immovable Purchase and Nationalizations-Level","Observation: Cumulative",NA,NA,NA
+NA,"Immovable Capital Produce-Level","Observation: Cumulative",NA,NA,NA
+NA,"Immovable Great Repair Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"6. Capital Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"a) Domestic Capital Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"General Directorate of Rural Works-Level","Observation: Cumulative",NA,NA,NA
+NA,"KÖY_DES Project-Level","Observation: Cumulative",NA,NA,NA
+NA,"BELDES (SUKAP)-Level","Observation: Cumulative",NA,NA,NA
+NA,"TUBİTAK-Level","Observation: Cumulative",NA,NA,NA
+NA,"Development Agency-Level","Observation: Cumulative",NA,NA,NA
+NA,"SOGEP-Level","Observation: Cumulative",NA,NA,NA
+NA,"Attraction Points Programme-Level","Observation: Cumulative",NA,NA,NA
+NA,"Railway Investment Support Program-Level","Observation: Cumulative",NA,NA,NA
+NA,"Province Banks-Level","Observation: Cumulative",NA,NA,NA
+NA,"Universal Services-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"b) Foreign Capital Transfers-Level","Observation: Cumulative",NA,NA,NA
+NA,"Turkish Republic Of Northern Cyprus-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"7. Lending-Level","Observation: Cumulative",NA,NA,NA
+NA,"a) Domestic Lending-Level","Observation: Cumulative",NA,NA,NA
+NA,"Public Enterprises (SEE's)-Level","Observation: Cumulative",NA,NA,NA
+NA,"Risk Account-Level","Observation: Cumulative",NA,NA,NA
+NA,"Education Credit-Level","Observation: Cumulative",NA,NA,NA
+NA,"Credit Guaranty Institutions-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"b) Foreign Lending-Level","Observation: Cumulative",NA,NA,NA
+NA,"Turkish Republic Of Northern Cyprus (Credit)-Level","Observation: Cumulative",NA,NA,NA
+NA,"Turkish Republic Of Northern Cyprus (Incentive)-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"8. Reserve Appropriations-Level","Observation: Cumulative",NA,NA,NA
+NA,"Personnel Reserve Appropriation-Level","Observation: Cumulative",NA,NA,NA
+NA,"Reserve Appropriation-Level","Observation: Cumulative",NA,NA,NA
+NA,"Disaster Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Appropriations of Investment Acceleration-Level","Observation: Cumulative",NA,NA,NA
+NA,"Appropriations of Judgement Debt-Level","Observation: Cumulative",NA,NA,NA
+NA,"Appropriations of Characteristic Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"Appropriations of Demand of New Agencies-Level","Observation: Cumulative",NA,NA,NA
+NA,"Health Appopriatons-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"B Interest-Level","Observation: Cumulative",NA,NA,NA
+NA,"a) Domestic Debt Interest-Level","Observation: Cumulative",NA,NA,NA
+NA,"Public Sector-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Government Bonds-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Treasury Bonds-Level","Observation: Cumulative",NA,NA,NA
+NA,"Other Domestic Debt Intersts-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Treasury Bonds (Long term)-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Treasury Bonds (Short Term)-Level","Observation: Cumulative",NA,NA,NA
+NA,"b) Foreign Debt Interest-Level","Observation: Cumulative",NA,NA,NA
+NA,"c) Interest of Discount and Short Term Cash Operation-Level","Observation: Cumulative",NA,NA,NA
+NA,"d) Derivative Product Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"e) Certificate of Rent Expenditures-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other-Level","Observation: Cumulative",NA,NA,NA
+NA,"Encouragement Paying of Minister of Industry and Technology-Level","Observation: Cumulative",NA,NA,NA
+NA,"_Other-Level","Observation: Cumulative",NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://www.muhasebat.gov.tr/content/public-accounts-bulletin",NA,NA,NA
+NA,"Revision Policy","https://www.muhasebat.gov.tr/content/public-accounts-bulletin",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
+NA,"Datasource","Ministry of Treasury and Finance",NA,NA,NA
+NA,"Metadata Link","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Revision Policy","https://en.hmb.gov.tr/public-finance",NA,NA,NA
+NA,"Tags","General, Budget, Expenditures",NA,NA,NA
