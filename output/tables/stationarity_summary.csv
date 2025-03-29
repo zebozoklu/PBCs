@@ -1,0 +1,6 @@
+variable,p_value_log,stationary_log,p_value_dlog,stationary_dlog
+log_exp_total_real,0.5966,No,0.1822,No
+log_exp_primary_real,0.4731,No,0.1809,No
+log_exp_personnel_real,0.01,Yes,NA,NA
+log_exp_socialsec_real,0.5812,No,0.0641,No
+log_exp_transfers_real,0.2924,No,0.016,Yes
