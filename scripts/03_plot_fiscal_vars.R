@@ -14,8 +14,12 @@ df$quarter <- as.yearqtr(df$quarter)
 elections <- as.yearqtr(c("2002 Q4", "2007 Q3", "2011 Q2", 
                           "2015 Q2", "2015 Q4", "2018 Q2", "2023 Q2"))
 
-#Plot CPI
-ggplot(df, aes(x = quarter, y = cpi)) +
+dir.create("output/plots", recursive = TRUE)
+
+
+
+# Save CPI plot
+p_cpi <- ggplot(df, aes(x = quarter, y = cpi)) +
   geom_line(color = "purple") +
   geom_vline(xintercept = elections, linetype = "dashed", color = "red", linewidth = 0.7) +
   labs(
@@ -24,6 +28,9 @@ ggplot(df, aes(x = quarter, y = cpi)) +
     y = "Index"
   ) +
   theme_minimal()
+
+ggsave("output/plots/cpi_plot.png", plot = p_cpi, width = 8, height = 5, dpi = 300)
+
 
 #Function to plot nominal and real fiscal vars
 
@@ -57,7 +64,16 @@ var_pairs <- list(
 # Loop through each pair and display plots
 for (pair in var_pairs) {
   plots <- plot_nominal_real(df, pair[1], pair[2], pair[3])
-  grid.arrange(plots$p1, plots$p2, ncol = 1)
+  
+  # Save both plots in one PNG (nominal + real stacked)
+  ggsave(
+    filename = paste0("output/plots/", gsub(" ", "_", tolower(pair[3])), "_plots.png"),
+    plot = grid.arrange(plots$p1, plots$p2, ncol = 1),
+    width = 8,
+    height = 9,
+    dpi = 300
+  )
 }
+
 
 
